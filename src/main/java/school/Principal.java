@@ -1,5 +1,6 @@
 package school;
 
+
 public class Principal {
     public void expelStudent(Student student) {
         // Expel the student logic
