@@ -12,7 +12,7 @@ public class Student {
     }
 
     public void takeCourse(Course course) {
-       ddddd // Take the course logic
+       // Take the course logic
         System.out.println(name + " is taking course: " + course.getName());
     }
 }
